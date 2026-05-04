@@ -2,6 +2,12 @@
 
 This project analyzes Superstore sales data and adds machine learning for pattern detection.
 
+## 📊 View Interactive Notebook
+
+**[Open Notebook with Interactive Plotly Charts →](https://nbviewer.org/github/dev9086/retail-profitability-predictor/blob/main/notebooks/store_sales_analysis.ipynb)**
+
+(Click the link above to view interactive visualizations, clustering analysis, and ML model results)
+
 ## What this project does
 
 - Exploratory Data Analysis (EDA) on customer segments, shipping, geography, and product categories
