@@ -47,6 +47,10 @@ jupyter notebook notebooks/store_sales_analysis.ipynb
 - Profitability model accuracy: 0.7463
 - Profitability model ROC-AUC: 0.6473
 
+## Upcoming Features
+
+- **Power BI Dashboard Version**: A Power BI version of this analysis dashboard is coming soon with interactive visualizations and real-time insights.
+
 ## Notes
 
 - The current VS Code notebook kernel on this machine has an intermittent NumPy C-extension issue, so validation was done via terminal Python run in `.venv`.
