@@ -29,7 +29,7 @@ This project analyzes Superstore sales data and adds machine learning for patter
 pip install -r requirements.txt
 ```
 
-3. Open and run notebook:
+3. Open the notebook in Jupyter and run cells interactively:
 
 ```bash
 jupyter notebook notebooks/store_sales_analysis.ipynb

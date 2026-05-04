@@ -1,4 +1,8 @@
-.venv/
+artifacts_sales/
+*.pkl
+*.png
+__pycache__/
+.venv/.venv/
 __pycache__/
 .ipynb_checkpoints/
 *.pyc
